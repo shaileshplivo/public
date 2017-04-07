@@ -1,0 +1,5 @@
+<Response>
+<Dial action="http://ec2-54-164-97-125.compute-1.amazonaws.com/1ajul8m1" method="POST" redirect="true">
+<User>sip:xlite161102110242@phone.plivo.com</User>
+</Dial>
+</Response>
