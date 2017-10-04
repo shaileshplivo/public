@@ -1,5 +1,5 @@
 <Response>
 <Dial action="http://ec2-34-196-104-60.compute-1.amazonaws.com/api/v1/xml_validation/Record_Sanity.xml" callbackUrl="http://ec2-34-196-104-60.compute-1.amazonaws.com/api/v1/xml_validation/Callback_Sanity.xml" confirmKey="1" confirmSound="http://ec2-34-196-104-60.compute-1.amazonaws.com/api/v1/xml_validation/press_1_to_accept.xml" timeout="30">
-<User>sip:shailesh161118101410@phone.test.plivo.com</User>
+<Number>+919945073606</Number>
 </Dial>
 </Response>
