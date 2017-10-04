@@ -1,0 +1,6 @@
+<Response>
+<Dial callbackUrl="http://ec2-34-196-104-60.compute-1.amazonaws.com/api/v1/xml_validation/Callback_Sanity.xml" timeout="30">
+<User>sip:shaileshwebrtc171004105152@phone.test.plivo.com</User>
+<User>sip:shailesh161118101410@phone.test.plivo.com</User>
+</Dial>
+</Response>
