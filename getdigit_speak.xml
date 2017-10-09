@@ -1,0 +1,11 @@
+<Response>
+<GetDigits action="http://ec2-34-196-104-60.compute-1.amazonaws.com/api/v1/xml_validation/conference-play.xml" method="POST" timeout="7" numDigits="1" retries="1">
+<Speak>
+Hi , Pleevo communication wants to talk to you .Please press 1 if you want to talk to him. Press 2 for disconnect.
+</Speak>
+</GetDigits>
+<Speak>
+Done!!! We are disconnecting the call . Have a Nice day. Happy New year 2017
+Thank u !!
+</Speak>
+</Response>
